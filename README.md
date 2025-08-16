@@ -30,9 +30,7 @@ The reason is as I mentioned earlier: due to the unique nature of QQ as a social
 <img width="2160" height="584" alt="image" src="https://github.com/user-attachments/assets/ce81dafb-d94f-440f-aba6-33eb8fb0ebbd" />
 <img width="2133" height="597" alt="image" src="https://github.com/user-attachments/assets/56c8313e-85ba-4a02-81f8-15a8c73f20f4" />
 
-https://github.com/HOursH/OP-Rick-Bot/blob/main/2025-08-16%2020-23-00.mp4
 
 
-
-
+https://github.com/user-attachments/assets/a973051a-dd1f-4faa-9af7-d3e7c290eea4
 
