@@ -22,11 +22,10 @@ The reason is as I mentioned earlier: due to the unique nature of QQ as a social
 # The screenshot below proves that my bot is available and running!!! Please note the date that proves my bot is now running!
 # The project is not open source, so the source code cannot be displayed. This repository is only used to prove that the Bot is running, and there is also proof of dau+groups displayed on q.qq.com!
 # The bot's invitation address can only be used within QQ, but I'll show it anyway: https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854203971
-
+# video
+https://github.com/user-attachments/assets/c5ad3b5d-e6de-4adf-aa0b-8f686371d675
+# screenshot
 <img width="1493" height="1048" alt="image" src="https://github.com/user-attachments/assets/62b2a8e8-7b57-4c4c-aa85-80316b302f07" />
 <img width="909" height="507" alt="image" src="https://github.com/user-attachments/assets/37061ae6-cfe8-402b-bdf5-fea4feaf75e5" />
 <img width="2160" height="584" alt="image" src="https://github.com/user-attachments/assets/ce81dafb-d94f-440f-aba6-33eb8fb0ebbd" />
 <img width="2133" height="597" alt="image" src="https://github.com/user-attachments/assets/56c8313e-85ba-4a02-81f8-15a8c73f20f4" />
-
-# video
-https://github.com/user-attachments/assets/c5ad3b5d-e6de-4adf-aa0b-8f686371d675
