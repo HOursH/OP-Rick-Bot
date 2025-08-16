@@ -26,7 +26,6 @@ The reason is as I mentioned earlier: due to the unique nature of QQ as a social
 
 <img width="1493" height="1048" alt="image" src="https://github.com/user-attachments/assets/62b2a8e8-7b57-4c4c-aa85-80316b302f07" />
 <img width="909" height="507" alt="image" src="https://github.com/user-attachments/assets/37061ae6-cfe8-402b-bdf5-fea4feaf75e5" />
-<img width="892" height="556" alt="image" src="https://github.com/user-attachments/assets/54801735-9837-40fd-8647-17f02f0e8e48" />
 <img width="2160" height="584" alt="image" src="https://github.com/user-attachments/assets/ce81dafb-d94f-440f-aba6-33eb8fb0ebbd" />
 <img width="2133" height="597" alt="image" src="https://github.com/user-attachments/assets/56c8313e-85ba-4a02-81f8-15a8c73f20f4" />
 
