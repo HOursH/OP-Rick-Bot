@@ -4,7 +4,6 @@
 依赖框架：nonebot2
 nonebot2官方地址：https://github.com/nonebot/nonebot2
 
-协议: GPL v2
 # 至Hypixel的一封信：
 目前我正在运行这个机器人在qq平台，一个中国大陆内人人皆用的社交软件，但是由于QQ像Discord一样，QQ官方提供了一系列的Bot api帮助开发者开发QQ bot，
 但QQ则不一样，QQ官方虽然提供bot相关的API来帮助开发者搭建自己的Bot，但由于官方提供的SDK版本过旧，所以大部分人都使用了第三方SDK，比如目前的nonebot2，也就是第三方的bot框架。
