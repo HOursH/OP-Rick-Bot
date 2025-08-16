@@ -1,6 +1,5 @@
 # OP-Rick-Bot
 
-依赖: requests, PIL, nonebot-adapter-qq
 依赖框架：nonebot2
 nonebot2官方地址：https://github.com/nonebot/nonebot2
 
@@ -12,6 +11,7 @@ nonebot2官方地址：https://github.com/nonebot/nonebot2
 # 下方的截图能证明我的bot是可用的，并且正在运行！！！
 # 请注意日期，能证明我的bot现在正在运行！
 # 项目并不开源，故无法展示源代码，此仓库仅用来证明Bot正在运行，并且还有q.qq.com展示的dau+groups证明！
+# Bot的邀请地址只能在QQ内部使用，但我还是展示出来：https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854203971
 
 # To a letter from Hypixel:
 Currently, I am running this bot on the QQ platform, a social media app widely used across mainland China. However, unlike Discord, QQ provides a series of Bot APIs to assist developers in creating QQ bots.  
@@ -22,11 +22,13 @@ The reason is as I mentioned earlier: due to the unique nature of QQ as a social
 # The screenshot below proves that my bot is available and running!!!
 # Please note the date that proves my bot is now running!
 # The project is not open source, so the source code cannot be displayed. This repository is only used to prove that the Bot is running, and there is also proof of dau+groups displayed on q.qq.com!
+# The bot's invitation address can only be used within QQ, but I'll show it anyway: https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854203971
 
 <img width="1493" height="1048" alt="image" src="https://github.com/user-attachments/assets/62b2a8e8-7b57-4c4c-aa85-80316b302f07" />
 <img width="909" height="507" alt="image" src="https://github.com/user-attachments/assets/37061ae6-cfe8-402b-bdf5-fea4feaf75e5" />
 <img width="892" height="556" alt="image" src="https://github.com/user-attachments/assets/54801735-9837-40fd-8647-17f02f0e8e48" />
 <img width="2160" height="584" alt="image" src="https://github.com/user-attachments/assets/ce81dafb-d94f-440f-aba6-33eb8fb0ebbd" />
 <img width="2133" height="597" alt="image" src="https://github.com/user-attachments/assets/56c8313e-85ba-4a02-81f8-15a8c73f20f4" />
+![Screenshot_20250816_192721_com tencent mobileqq](https://github.com/user-attachments/assets/1cf0a095-6e45-408d-adc2-5cdf1b1b23dd)
 
 
