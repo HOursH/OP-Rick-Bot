@@ -2,9 +2,10 @@
 
 依赖框架：nonebot2
 nonebot2官方地址：https://github.com/nonebot/nonebot2
+QQ开放平台：https://q.qq.com
 
 # 至Hypixel的一封信：
-目前我正在运行这个机器人在qq平台，一个中国大陆内人人皆用的社交软件，但是由于QQ像Discord一样，QQ官方提供了一系列的Bot api帮助开发者开发QQ bot，
+目前我正在运行这个机器人在qq平台，一个中国大陆内人人皆用的社交软件，但是由于QQ像Discord一样，QQ官方提供了一系列的Bot api帮助开发者开发QQ bot。
 但QQ则不一样，QQ官方虽然提供bot相关的API来帮助开发者搭建自己的Bot，但由于官方提供的SDK版本过旧，所以大部分人都使用了第三方SDK，比如目前的nonebot2，也就是第三方的bot框架。
 当我申请Production API Key的时候被驳回：We cannot grant a production application based on the information provided.
 原因就是上面我说的，由于QQ这款社交软件的特殊性，导致官方虽然提供了bot的api，但由于bot的邀请地址只能在QQ内使用，并且由于申请时无法提供运行截图，导致上一次申请时被拒绝，但实际上我的bot在更新迭代后正在稳定运行大约2年，dau超过2500，群聊(就像discord的频道)数量超过3万。此次申请也是因为项目组变更，和之前的不是同一个项目！
