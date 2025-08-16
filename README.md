@@ -12,6 +12,7 @@ nonebot2官方地址：https://github.com/nonebot/nonebot2
 # 请注意日期，能证明我的bot现在正在运行！
 # 项目并不开源，故无法展示源代码，此仓库仅用来证明Bot正在运行，并且还有q.qq.com展示的dau+groups证明！
 # Bot的邀请地址只能在QQ内部使用，但我还是展示出来：https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854203971
+# 并且我提交过一个Ticket，里面有录制视频，演示了Bot使用画面，还有q.qq.com的dau+groups数据展示，还有Bot运行时的后台界面：https://support.hypixel.net/hc/en-us/requests/1112969
 
 # To a letter from Hypixel:
 Currently, I am running this bot on the QQ platform, a social media app widely used across mainland China. However, unlike Discord, QQ provides a series of Bot APIs to assist developers in creating QQ bots.  
@@ -23,6 +24,7 @@ The reason is as I mentioned earlier: due to the unique nature of QQ as a social
 # Please note the date that proves my bot is now running!
 # The project is not open source, so the source code cannot be displayed. This repository is only used to prove that the Bot is running, and there is also proof of dau+groups displayed on q.qq.com!
 # The bot's invitation address can only be used within QQ, but I'll show it anyway: https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854203971
+# I have also submitted a ticket containing a recorded video demonstrating how the bot works, as well as data from q.qq.com showing DAU+groups and the bot's backend interface when running: https://support.hypixel.net/hc/en-us/requests/1112969
 
 <img width="1493" height="1048" alt="image" src="https://github.com/user-attachments/assets/62b2a8e8-7b57-4c4c-aa85-80316b302f07" />
 <img width="909" height="507" alt="image" src="https://github.com/user-attachments/assets/37061ae6-cfe8-402b-bdf5-fea4feaf75e5" />
