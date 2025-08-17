@@ -1,8 +1,6 @@
 # OP-Rick-Bot README
 
-依赖框架：nonebot2  
-nonebot2官方地址：https://github.com/nonebot/nonebot2  
-QQ开放平台：https://q.qq.com  
+依赖框架：nonebot2 | nonebot2官方地址：https://github.com/nonebot/nonebot2 | QQ开放平台：https://q.qq.com  
 
 # 至Hypixel的一封信：
 目前我正在运行这个机器人在qq平台，一个中国大陆内人人皆用的社交软件，由于QQ像Discord一样，QQ官方提供了一系列的Bot api帮助开发者开发QQ bot。  
