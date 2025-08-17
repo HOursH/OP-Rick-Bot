@@ -26,7 +26,7 @@ The bot's invitation address can only be used within QQ, but I'll show it anyway
 ## The project is not open source, so the source code cannot be displayed. This repository is only used to prove that the Bot is running, and there is also proof of dau+groups displayed on q.qq.com!
 ### This application is due to changes in the project team. It is not the same project as the previous Alioth, so it is necessary to apply for a dedicated production application for this new project.
 # video
-https://github.com/user-attachments/assets/dd3efd00-779a-4462-8ede-a05d50be2a08
+https://github.com/user-attachments/assets/93839a89-b749-4ea4-8282-906b0054666f
 
 # screenshot
 <img width="1493" height="1048" alt="image" src="https://github.com/user-attachments/assets/62b2a8e8-7b57-4c4c-aa85-80316b302f07" />
