@@ -12,7 +12,7 @@ QQ开放平台：https://q.qq.com
 Bot的邀请地址只能在QQ内部使用，但我还是展示出来：https://qun.qq.com/qunpro/robot/qunshare?robot_uin=2854203971
 # 下方的截图能证明我的bot是可用的，并且正在运行！！！请注意日期，能证明我的bot现在正在运行！
 ## 项目并不开源，故无法展示源代码，此仓库仅用来证明Bot正在运行，并且还有q.qq.com展示的dau+groups证明！
-### 此次申请是由于项目组变更，和之前的Alioth不是同一个项目，所以需要为这个新项目申请专属的production application，之前的Alioth production application将保留并变更为web项目开发。
+### 此次申请是由于项目组变更，和之前的Alioth不是同一个项目，所以需要为这个新项目申请专属的production application。
 
 # To a letter from Hypixel:
 Currently, I am running this bot on the QQ platform, a social media app widely used across mainland China. However, unlike Discord, QQ provides a series of Bot APIs to assist developers in creating QQ bots.  
@@ -23,7 +23,7 @@ The bot's invitation address can only be used within QQ, but I'll show it anyway
 
 # The screenshot below proves that my bot is available and running!!! Please note the date that proves my bot is now running!
 ## The project is not open source, so the source code cannot be displayed. This repository is only used to prove that the Bot is running, and there is also proof of dau+groups displayed on q.qq.com!
-### This application is due to changes in the project team. It is not the same project as the previous Alioth, so it is necessary to apply for a dedicated production application for this new project. The previous Alioth production application will be retained and changed to web project development.
+### This application is due to changes in the project team. It is not the same project as the previous Alioth, so it is necessary to apply for a dedicated production application for this new project.
 # video
 https://github.com/user-attachments/assets/dd3efd00-779a-4462-8ede-a05d50be2a08
 
