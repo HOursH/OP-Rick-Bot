@@ -1,4 +1,4 @@
-# OP-Rick-Bot
+# OP-Rick-Bot README
 
 依赖框架：nonebot2
 nonebot2官方地址：https://github.com/nonebot/nonebot2
